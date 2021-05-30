@@ -3,10 +3,14 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/A_shock009?style=social)
 
 ---
-A multitasking individual with the ability to do work effectively & efficiently in a fast-paced company for the role of a Software developer.
+
+- 🔭 I’m currently working on Ionic V5 and Angular 11, NodeJS, Express and MongoDB 
+- 🌱 I’m currently learning React Native and Go
+- 💬 Ask me about Angular Material and RxJs
+- ⚡ Fun fact: My Final Year Project was a Facebook Clone 😅
 
 ---
-🧰 Toolbox
+🧰  Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node Js Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50" />
@@ -28,7 +32,3 @@ A multitasking individual with the ability to do work effectively & efficiently 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Ionic V5 and Angular 11, NodeJS, Express and MongoDB 
-- 🌱 I’m currently learning React Native and Go
-- 💬 Ask me about Angular Material and RxJs
-- ⚡ Fun fact: My Final Year Project was a Facebook Clone 😅
