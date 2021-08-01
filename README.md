@@ -20,7 +20,7 @@
 
 🔖 Latest Blog Aricles
 
-➡️ https://dev.to/a_shokn/beginners-guide-to-async-await-in-javascript-33k8
+➡️ https://medium.com/@a_shokn/how-to-implement-google-sign-in-in-ionic-5-9b2dc1581dbf
 
 ➡️ https://dev.to/a_shokn/beginners-guide-to-async-await-in-javascript-17jj
 
