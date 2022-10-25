@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on Ionic V5 and Angular 11, NodeJS, Express and MongoDB 
+- 🔭 I’m currently working on Ionic V5 and Angular 11, ReactJs, NodeJS, Express and MongoDB 
 - 🌱 I’m currently learning React Native and Go
 - 💬 Ask me about Angular Material and RxJs
 - ⚡ Fun fact: My Final Year Project was a Facebook Clone 😅
